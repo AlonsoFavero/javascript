@@ -19,6 +19,14 @@ margin: auto;
 box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.274);
 }
 
+img{
+ width: 270px;
+ height: 250px;
+ border-radius: 50%;
+ display: block;
+ margin: 0 auto;
+}
+
 footer{
 color: white;
 text-align: center;

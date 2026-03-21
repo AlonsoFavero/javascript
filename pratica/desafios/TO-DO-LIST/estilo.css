@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+body{
+    background: #121212;
+    color: white;
+    font-family: arial;
+}
+
+li{
+    margin: 10px 0;
+}
+
+button{
+    margin-left: 10px;
+    cursor: pointer;
+}

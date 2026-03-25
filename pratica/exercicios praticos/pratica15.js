@@ -5,3 +5,9 @@ let soma = dobro.reduce((total,n) => total + n,0)
 
 console.log(dobro)
 console.log(soma)
+
+/*let resultado = numeros
+.map (n => n*2 )
+.reduc((total,n) => total + n, 0)
+
+console.log  (resultado)*/

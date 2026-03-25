@@ -8,5 +8,9 @@ let resultado = pares.reduce((total,n) =>{
 
 console.log(resultado)
 
+/* let resultado = numeros 
+.filter(n => n% 2 === 0)
+.reduc((total,n) => total * n, 1)
 
+console.log(resultado)*/
  

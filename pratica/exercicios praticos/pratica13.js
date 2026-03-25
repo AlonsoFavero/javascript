@@ -5,3 +5,5 @@ let soma = numeros.reduce((total, n) => {
 }, 0 )
 
 console.log(soma)
+
+//let soma = numeros.reduce((total,n) => total + n,0)
